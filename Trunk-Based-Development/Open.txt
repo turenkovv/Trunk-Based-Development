@@ -1,0 +1,2 @@
+Trunk-Based Development (TBD)
+Git trunk-based development is a popular branching strategy that focuses on a single main branch called the trunk. The trunk branch serves as the central repository for all code changes, and it is always in a releasable state. Developers commit their changes directly to the trunk, and regular integration and testing occur to ensure the codebase remains stable.
